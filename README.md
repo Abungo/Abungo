@@ -5,9 +5,15 @@
 
 Here are some ideas to get you started:
 -->
+<h2 align="center">
+  Welcome to my GitHub profile!👋
+</h2>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/Abungo">
+</p>
 My name is Abungo.
 I am interested in building roms and web development.
-
 - 🔭 I’m currently working on Android Rom Building
 - 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate on Android Development
