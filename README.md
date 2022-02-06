@@ -5,8 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Android Development
+My name is Abungo.
+I am interested in building roms and web development.
+
+- 🔭 I’m currently working on Android Rom Building
+- 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate on Android Development
 - 🤔 I’m looking for help with Android Development
 - 💬 Ask me about Anything
