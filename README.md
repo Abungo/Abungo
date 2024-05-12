@@ -13,11 +13,10 @@ Here are some ideas to get you started:
   <img src="https://gpvc.arturio.dev/Abungo">
 </p>
 My name is Abungo.
-I am interested in building roms and web development.
+I am interested in web development and building android roms.
 
 - 🔭 I’m currently working on Android Rom Building
 - 🌱 I’m currently learning Android
-- 👯 I’m looking to collaborate on Android Development
 - 🤔 I’m looking for help with Android Development
 - 💬 Ask me about Anything
 - 📫 How to reach me: abungothokchom@gmail.com
